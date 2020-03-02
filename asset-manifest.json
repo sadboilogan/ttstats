@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ttstats/static/css/main.5fa1456d.chunk.css",
-    "main.js": "/ttstats/static/js/main.fefac4c4.chunk.js",
-    "main.js.map": "/ttstats/static/js/main.fefac4c4.chunk.js.map",
+    "main.js": "/ttstats/static/js/main.47524e3d.chunk.js",
+    "main.js.map": "/ttstats/static/js/main.47524e3d.chunk.js.map",
     "runtime-main.js": "/ttstats/static/js/runtime-main.acd500c9.js",
     "runtime-main.js.map": "/ttstats/static/js/runtime-main.acd500c9.js.map",
     "static/js/2.03fe7205.chunk.js": "/ttstats/static/js/2.03fe7205.chunk.js",
     "static/js/2.03fe7205.chunk.js.map": "/ttstats/static/js/2.03fe7205.chunk.js.map",
     "index.html": "/ttstats/index.html",
-    "precache-manifest.b309c813d9458ea3500d9c7671c07ad9.js": "/ttstats/precache-manifest.b309c813d9458ea3500d9c7671c07ad9.js",
+    "precache-manifest.d5e4b16c8489ae98437135b75ae497d3.js": "/ttstats/precache-manifest.d5e4b16c8489ae98437135b75ae497d3.js",
     "service-worker.js": "/ttstats/service-worker.js",
     "static/css/main.5fa1456d.chunk.css.map": "/ttstats/static/css/main.5fa1456d.chunk.css.map",
     "static/js/2.03fe7205.chunk.js.LICENSE.txt": "/ttstats/static/js/2.03fe7205.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.acd500c9.js",
     "static/js/2.03fe7205.chunk.js",
     "static/css/main.5fa1456d.chunk.css",
-    "static/js/main.fefac4c4.chunk.js"
+    "static/js/main.47524e3d.chunk.js"
   ]
 }
